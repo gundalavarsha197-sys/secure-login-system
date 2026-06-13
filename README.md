@@ -24,6 +24,8 @@ Passwords are stored using bcrypt hashing instead of plain text, sessions are us
 
 ## 📸 Output Flow
 User registers → Login → Dashboard access → Logout securely
+<img width="1918" height="1078" alt="Screenshot 2026-06-13 170134" src="https://github.com/user-attachments/assets/efd58ce4-2191-4493-ae34-131fbf39da6c" />
+
 
 ## 👨‍💻 Author
 GUNDALA VARSHA
